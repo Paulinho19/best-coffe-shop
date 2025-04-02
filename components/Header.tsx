@@ -19,10 +19,6 @@ const Header = () => {
               {" "}
               <span>Sobre Nós</span>{" "}
             </Link>
-            <Link href={"/contact"}>
-              {" "}
-              <span>Contato</span>{" "}
-            </Link>
           </>
         </div>
       </nav>
