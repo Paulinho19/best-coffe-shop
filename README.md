@@ -1,6 +1,6 @@
 # Best Coffee Shop
 
-Bem-vindo ao repositório do **Best Coffee Shop ☕**! Este projeto é um site para promover e compartilhar informações sobre a melhor cafeteria da Tia Rosa.
+Bem-vindo ao repositório do **Best Coffee Shop ☕** ! Este projeto é um site para promover e compartilhar informações sobre a melhor cafeteria da Tia Rosa.
 
 ## Tecnologias Utilizadas
 
@@ -12,7 +12,7 @@ Bem-vindo ao repositório do **Best Coffee Shop ☕**! Este projeto é um site p
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/best-coffee-shop.git
+git clone https://github.com/Paulinho19/best-coffe-shop.git
 ```
 
 2. Navegue até o diretório do projeto:
