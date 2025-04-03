@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <header className="px-5 py-3 bg-orange-800 shadow-sm font-work-sans ">
+    <header className="px-5 py-3 bg-orange-800 shadow-sm font-work-sans w-screen">
       <nav className="flex justify-between items-center">
         <Link href="/">
           <Image src="/logo.png" alt="logo" width={50} height={30} />
