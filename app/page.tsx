@@ -12,7 +12,7 @@ export default function Home() {
   };
 
   return (
-    <main className="flex  flex-col justify-center items-center h-screen w-screen ">
+    <main className="flex  flex-col justify-center items-center h-[713px] w-screen ">
       <h1 className="text-4xl font-bold text-orange-800">
         Tia Rosa, Coffe Shop
       </h1>
